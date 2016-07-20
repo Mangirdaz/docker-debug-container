@@ -1,0 +1,17 @@
+{
+  "kind": "Project",
+  "apiVersion": "v1",
+  "metadata": {
+    "name": "openshift-project",
+    "creationTimestamp": null,
+    "labels": {
+      "name": "openshift-project"
+    },
+    "annotations": {
+      "openshift.io/description": "Debug Project",
+      "openshift.io/display-name": "Debug Project"
+    }
+  },
+  "spec": {},
+  "status": {}
+}
