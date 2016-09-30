@@ -12,7 +12,7 @@
     "containers": [
       {
         "name": "debug-openshift",
-        "image": "openshift/docker-debug-container",
+        "image": "mangirdas/docker-debug-container",
         "ports": [
           {
             "containerPort": 8080,
